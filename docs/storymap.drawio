@@ -1,0 +1,151 @@
+<mxfile host="65bd71144e">
+    <diagram id="_IlFrDj63PBZ2p0BgG3Q" name="ページ-1">
+        <mxGraphModel dx="3979" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="バイクを登録する" vertex="1">
+                    <mxGeometry height="60" width="120" x="-2351" y="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="整備を記録する" vertex="1">
+                    <mxGeometry height="60" width="120" x="-2191" y="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="整備履歴を確認する" vertex="1">
+                    <mxGeometry height="60" width="120" x="-1711" y="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="メンテナンス予定を管理する" vertex="1">
+                    <mxGeometry height="60" width="120" x="-1551" y="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="通知を受け取る" vertex="1">
+                    <mxGeometry height="60" width="120" x="-1391" y="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="メンテナンスを&lt;div&gt;完了する&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="-1231" y="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;p style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; line-height: inherit; text-rendering: optimizelegibility; overflow-wrap: break-word; cursor: text; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; color: rgb(38, 38, 38); text-align: left; white-space: pre-wrap; background-color: rgb(255, 255, 255);&quot;&gt;バイク所有者の「メンテナンス時期や整備履歴を把握しにくい」&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; line-height: inherit; text-rendering: optimizelegibility; overflow-wrap: break-word; cursor: text; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; color: rgb(38, 38, 38); text-align: left; white-space: pre-wrap; background-color: rgb(255, 255, 255);&quot;&gt;というペインを「メンテナンス情報を簡単に記録・管理できる」&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; line-height: inherit; text-rendering: optimizelegibility; overflow-wrap: break-word; cursor: text; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; color: rgb(38, 38, 38); text-align: left; white-space: pre-wrap; background-color: rgb(255, 255, 255);&quot;&gt;へ変えるためのアプリを開発する。&lt;/p&gt;" vertex="1">
+                    <mxGeometry height="30" width="520" x="-2281" y="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
+                    <mxGeometry height="60" width="120" x="-2351" y="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="登録する" vertex="1">
+                    <mxGeometry height="60" width="120" x="-2351" y="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="記録する" vertex="1">
+                    <mxGeometry height="60" width="120" x="-2191" y="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="確認する" vertex="1">
+                    <mxGeometry height="60" width="120" x="-1711" y="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="管理する" vertex="1">
+                    <mxGeometry height="60" width="120" x="-1551" y="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="⬜︎走行距離を登録する" vertex="1">
+                    <mxGeometry height="60" width="120" x="-2351" y="330" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="⬜︎車種を登録する" vertex="1">
+                    <mxGeometry height="60" width="120" x="-2351" y="250" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="走行距離を記録する" vertex="1">
+                    <mxGeometry height="60" width="120" x="-2191" y="250" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="⬜︎走行距離を記録する" vertex="1">
+                    <mxGeometry height="60" width="120" x="-2191" y="250" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;⬜︎日付&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;を記録する&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="-2191" y="330" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="⬜︎整備内容を記録する" vertex="1">
+                    <mxGeometry height="60" width="120" x="-2031" y="250" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="⬜︎整備費用を記録する" vertex="1">
+                    <mxGeometry height="60" width="120" x="-2031" y="330" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="⬜︎記録を保存" vertex="1">
+                    <mxGeometry height="60" width="120" x="-1871" y="330" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="⬜︎整備記録の一覧表示" vertex="1">
+                    <mxGeometry height="60" width="120" x="-1711" y="250" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="燃費計算" vertex="1">
+                    <mxGeometry height="60" width="120" x="-1231" y="490" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="⬜︎&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;整備記録の&lt;/span&gt;&lt;div&gt;&lt;div&gt;削除・編集&lt;/div&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="-1711" y="330" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="メンテナンス項目の登録" vertex="1">
+                    <mxGeometry height="60" width="120" x="-1551" y="490" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="次回メンテナンス&lt;div&gt;予定日の登録&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="-1551" y="570" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="メンテナンス項目&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;一覧表示&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="-1551" y="410" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="走行距離を基に通知" vertex="1">
+                    <mxGeometry height="60" width="120" x="-1391" y="570" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="予定日が近づいてきたら通知" vertex="1">
+                    <mxGeometry height="60" width="120" x="-1391" y="650" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="実施を記録" vertex="1">
+                    <mxGeometry height="60" width="120" x="-1231" y="410" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="次回メンテナンス&lt;div&gt;予定日の登録&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="-1231" y="650" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="完了する" vertex="1">
+                    <mxGeometry height="60" width="120" x="-1231" y="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-42" edge="1" parent="1" style="endArrow=none;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="-2351" y="400" as="sourcePoint"/>
+                        <mxPoint x="-1071" y="400" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-44" edge="1" parent="1" style="shape=link;html=1;" value="">
+                    <mxGeometry relative="1" width="100" as="geometry">
+                        <mxPoint x="-2351" y="240" as="sourcePoint"/>
+                        <mxPoint x="-1081" y="240" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-45" edge="1" parent="1" style="endArrow=none;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="-2351" y="560" as="sourcePoint"/>
+                        <mxPoint x="-1071" y="560" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-46" edge="1" parent="1" style="endArrow=none;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="-2351" y="720" as="sourcePoint"/>
+                        <mxPoint x="-1071" y="720" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-47" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="整備を記録、　　&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63); text-decoration-line: inherit;&quot;&gt;確認できる&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="80" width="120" x="-2481" y="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-48" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="メンテナンスを記録できる" vertex="1">
+                    <mxGeometry height="80" width="120" x="-2481" y="440" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-49" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="忘れずにメンテナンスできる" vertex="1">
+                    <mxGeometry height="80" width="120" x="-2481" y="610" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ユーザー" vertex="1">
+                    <mxGeometry height="20" width="59" x="-2351" y="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ユーザー" vertex="1">
+                    <mxGeometry height="20" width="59" x="-2191" y="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ユーザー" vertex="1">
+                    <mxGeometry height="20" width="59" x="-1711" y="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ユーザー" vertex="1">
+                    <mxGeometry height="20" width="59" x="-1551" y="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZALPIxbPMauqElg8qlDi-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ユーザー" vertex="1">
+                    <mxGeometry height="20" width="59" x="-1230" y="70" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
