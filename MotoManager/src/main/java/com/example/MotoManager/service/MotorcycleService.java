@@ -1,0 +1,10 @@
+package com.example.MotoManager.service;
+
+import org.springframework.stereotype.Service;
+
+import jakarta.websocket.server.ServerEndpoint;
+
+@Service
+public class MotorcycleService {
+
+}
