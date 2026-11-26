@@ -7,8 +7,6 @@ import org.springframework.stereotype.Service;
 import com.example.MotoManager.entity.Motorcycle;
 import com.example.MotoManager.repository.MotorcycleRepository;
 
-import jakarta.websocket.server.ServerEndpoint;
-
 @Service
 public class MotorcycleService {
     private final MotorcycleRepository motorcycleRepository;
