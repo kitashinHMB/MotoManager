@@ -24,4 +24,17 @@ public class MotorcycleService {
     public List<Motorcycle> findAll() {
         return motorcycleRepository.findAll();
     }
+
+    public Motorcycle update(Long id, Motorcycle motorcycle) {
+        Motorcycle existing = motorcycleRepository.findById(id)
+                .orElseThrow(() -> new RuntimeException("バイクが見つかりません"));
+
+        existing.setName(motorcycle.getName());
+        existing.setManufacturer(motorcycle.getManufacturer());
+        existing.setYear(motorcycle.getYear());
+        existing.setMileage(motorcycle.getMileage());
+
+        return motorcycleRepository.save(existing);
+    }
+
 }
