@@ -37,4 +37,12 @@ public class MotorcycleService {
         return motorcycleRepository.save(existing);
     }
 
+    public void delete(Long id) {
+        if (!motorcycleRepository.existsById(id)) {
+            throw new RuntimeException("バイクが見つかりません");
+        }
+
+        motorcycleRepository.deleteById(id);
+    }
+
 }
