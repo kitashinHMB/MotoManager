@@ -9,7 +9,9 @@ import com.example.MotoManager.service.MotorcycleService;
 import java.util.List;
 
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestParam;
 
@@ -31,6 +33,14 @@ public class MotorcycleController {
     @PostMapping
     public Motorcycle save(@RequestBody Motorcycle motorcycle) {
         return motorcycleService.save(motorcycle);
+    }
+
+    @PutMapping("/{id}")
+    public Motorcycle update(
+            @PathVariable Long id,
+            @RequestBody Motorcycle motorcycle) {
+
+        return motorcycleService.update(id, motorcycle);
     }
 
 }
